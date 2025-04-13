@@ -1,6 +1,6 @@
-# POLI3148 Fall 2024 HKU
+# Data Science in Politics and Public Administration (POLI3148)
 
-Welcome to this course archive for Data Science for Politics and Public Administration (Fall 2024). This is an introductory course on data science for students in the Department of Politics and Public Administration at The University of Hong Kong. The course is designed to provide students with a foundational understanding of data science concepts and techniques, with a focus on their application in the fields of politics and public administration.
+Welcome to this course archive for *Data Science in Politics and Public Administration (Fall 2024)*. This is an introductory course on data science for undergraduate students at The University of Hong Kong. The course is designed to provide students with a foundational understanding of data science concepts and techniques, with a focus on their application in the fields of politics and public administration. *Python* is the primary programming language used in this course.
 
 The materials in this repository include lecture notes and code I have designed for the course. I gratefully acknowledge Mr. Du Baichen for his assistance with cleaning up the code after the course concluded for open access. I also thank Dr. Liao Li for his excellent teaching assistance and contributions to the course materials.
 

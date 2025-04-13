@@ -4,14 +4,17 @@ Welcome to this course archive for *Data Science in Politics and Public Administ
 
 The materials in this repository include lecture notes and code I have designed for the course. I gratefully acknowledge Mr. Du Baichen for his assistance with cleaning up the code after the course concluded for open access. I also thank Dr. Liao Li for his excellent teaching assistance.
 
+---
 
-## Course description
+## 🧑‍🏫 Course description
 
 Big data play increasingly important roles in politics and public administration. This course aims to help future PPA practitioners and researchers make sense of big data. It guides students to ask and answer the following questions: What are big data? With big data, what questions can policymakers and researchers ask and answer? How to collect and analyze big data? This course introduces students to state-of-the-art data science techniques. Topics include introductory programming for data science, data collection, data visualization, and machine learning. Upon completion, students are expected to get hands-on experience with data science and understand the promise, limitations, and pitfalls of big data in politics and public administration.
 
 [Please see the syllabus here](Syllabus_2024Fall.pdf)
 
-## Lectures
+---
+
+## 📖 Course Materials
 
 Lecture 1. Welcome and Logistics. [Slides](./Lecture1/POLI3148_Lecture_1.pdf) [Code](./Lecture1/Week1Lecture1_Introduction.ipynb)
 
@@ -33,6 +36,7 @@ Lecture 9. Machine Learning (I): Classification. [Slides](./Lecture9/POLI3148_Le
 
 Lecture 10. Machine Learning (II): Text Classification. [Slides](./Lecture10/POLI3148_Lecture_10.pdf) [Code](./Lecture10/Lecture10_TextClassification_LLM.ipynb)
 
+---
 
 ## 📜 License and Permissions
 
@@ -70,7 +74,7 @@ The author reserves the right to publish these materials in future textbook form
 Feel free to reach out with questions, collaborations, or reuse inquiries.
 
 - 📧 *my first name* AT hku dot hk
-- 🏫 Department of Politics and Public Administration, The University of Hong Kong
+- 🏫 Department of Politics and Public Administration, The University of Hong Kong, Hong Kong.
 
 
 © 2025 Haohan Chen. All rights reserved.
